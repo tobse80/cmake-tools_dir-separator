@@ -1,0 +1,7 @@
+{
+   "cmake.buildDirectory": "${workspaceRoot}/Build",
+   "cmake.installPrefix": "${workspaceRoot}/Install",
+   "cmake.configureSettings": {
+      "FOO_DIR": "${workspaceRoot}/Foo"
+   }
+}
